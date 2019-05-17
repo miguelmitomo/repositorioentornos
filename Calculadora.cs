@@ -8,6 +8,12 @@ namespace ExamenEntornos
 {
     class Calculadora
     {
+        /// <summary>
+        /// suma
+        /// </summary>
+        /// <param name="a">valor a</param>
+        /// <param name="b">valor b</param>
+        /// <returns></returns>
         public static int suma(int a,int b)
         {
             int result;
