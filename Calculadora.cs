@@ -8,5 +8,11 @@ namespace ExamenEntornos
 {
     class Calculadora
     {
+        public static int suma(int a,int b)
+        {
+            int result;
+            result = a + b;
+            return result;
+        }
     }
 }
