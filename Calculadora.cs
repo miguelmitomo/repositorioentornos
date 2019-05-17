@@ -14,5 +14,12 @@ namespace ExamenEntornos
             result = a + b;
             return result;
         }
+
+        public static int resta(int a, int b)
+        {
+            int result;
+            result = a - b;
+            return result;
+        }
     }
 }
