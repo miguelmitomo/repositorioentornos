@@ -21,5 +21,12 @@ namespace ExamenEntornos
             result = a - b;
             return result;
         }
+
+        public static int mult(int a, int b)
+        {
+            int result;
+            result = a * b;
+            return result;
+        }
     }
 }
